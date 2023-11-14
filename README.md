@@ -4,7 +4,7 @@ Simple Thread Library
 This is a simple thread library written in C that provides basic functionalities for thread management. 
 The library supports creating, deleting, suspending, resuming, running, and sleeping threads. Additionally, it includes functions for yielding control, initializing statistics, and obtaining thread status.
 
-Usage(Ubantu)
+Usage(Ubuntu)
 
 Compile the Library:
 gcc -c MyThread.c
